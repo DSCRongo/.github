@@ -2,7 +2,7 @@
 
 # DSC Rongo University
 
-**Here are some ideas to get you started:**
+**Here are some ideas pre-reqs:**
 
 - 🙋‍♀️ A short introduction - Where we keep some of our ideas?
 - 🌈 Contribution guidelines - Contact us for contributions?
